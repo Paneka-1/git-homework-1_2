@@ -7,9 +7,10 @@
 На тестирование затрачено: 2 часа.
 
 В результате тестирования выявлены следующие дефекты:
-* <ссылка на описание дефекта>
-* <ссылка на описание дефекта>
-* <ссылка на описание дефекта>
+* https://github.com/Paneka-1/java-homework-1_2/issues/1
+* https://github.com/Paneka-1/java-homework-1_2/issues/2
+* https://github.com/Paneka-1/java-homework-1_2/issues/3
+* https://github.com/Paneka-1/java-homework-1_2/issues/4
 
 ## Описание процесса тестирования
 
